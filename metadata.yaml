@@ -1,0 +1,40 @@
+_repo: Lord-Lyons--A-Record-of-British-Diplomacy-Vol.-2-of-2_44143
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Ward, Wilfrid, Mrs.
+    alias: Ward, Josephine Mary Hope-Scott
+    birthdate: 1864
+    deathdate: 1932
+    gutenberg_agent_id: '7717'
+    url: http://www.gutenberg.org/2009/agents/7717
+covers:
+- cover_type: archival
+  image_path: 44143-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Newton, Thomas Wodehouse Legh, Baron
+    aliases:
+    - Newton, Lord
+    - Legh, Thomas Wodehouse, Baron Newton
+    birthdate: 1857
+    deathdate: 1942
+    gutenberg_agent_id: '42127'
+    url: http://www.gutenberg.org/2009/agents/42127
+description: ''
+gutenberg_issued: '2013-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44143'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diplomatic and consular service, British'
+- !lcsh 'Europe -- Politics and government -- 1871-1918'
+- !lcsh 'Great Britain -- Foreign relations -- 1837-1901'
+- !lcc 'DA'
+- !lcsh 'Lyons, Richard Bickerton Pemell Lyons, Earl, 1817-1887'
+title: 'Lord Lyons: A Record of British Diplomacy, Vol. 2 of 2'
+url: http://www.gutenberg.org/ebooks/44143
